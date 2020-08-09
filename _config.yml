@@ -3,7 +3,7 @@ name: 'Data Wanderer'
 description: 'Random Thoughts Compiled!'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-baseurl: '/garbagein-garbageout'
+baseurl: '/sahyagiri.github.io/garbagein-garbageout'
 email: 'sahyagiri@gmail.com'
 
 include: ["_pages"]
