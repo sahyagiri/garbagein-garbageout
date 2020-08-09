@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Elements
+title: Data Wanderer
 nav-menu: true
 ---
 
