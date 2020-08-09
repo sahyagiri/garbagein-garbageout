@@ -1,15 +1,15 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
+title: Data Wanderer
+subtitle: Garbage in-->Garbage Out
 email: sahyagiri@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: Data Exploration/Books&Films/Photographs
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: #
 author: Gireesan Namboothiri P. 
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 2
 
 # social settings
 github_url: https://github.com/sahyagiri
