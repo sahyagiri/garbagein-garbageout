@@ -1,2 +1,2 @@
-# This is the storage for the garbage 
+# This is a trial did for minimal mistakes with customizations 
 ## nothing else here. 
